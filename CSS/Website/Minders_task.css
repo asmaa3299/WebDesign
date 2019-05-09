@@ -1,0 +1,107 @@
+body{
+    margin: 0;
+    background-color: #1F5663;
+}
+.NavBar {
+  overflow: hidden;
+  background-color: #FEFEFE;
+  padding-right: 200px;
+ 
+}
+
+.NavBar a {
+  float: right;
+  color: #1F5663;
+  text-align: center;
+  padding: 18px 20px;
+  text-decoration: none;
+  font-size: 15px;
+  font-family: 'Rosario';
+  text-shadow: 0.5px 1px #1F5600;
+}
+.NavBar a:hover{
+    background-color: #FFD600;
+    
+}
+.NavBar a:active{
+    text-decoration: underline;
+    color: #1B313C;
+}
+.BlueLogo{
+    width: 35px;
+    height: 35px;
+    padding-left: 200px;
+    margin-top: 8px;
+   
+ 
+}
+.YellowLogo
+{
+    width: 51px;
+    height: 51px;
+    
+}
+.Logo{
+    width: 51px;
+    height: 51px;
+    border: 3px solid #DDD;
+    border-radius: 50%;
+    margin-left: 650px;
+    
+}
+h1 
+{
+    font-family: 'Poiret One';
+    text-align: center;
+    color: #FED600
+}
+h2{
+    font-family: 'Poiret One';
+    color: #D6DEE0;
+    float: right;
+    padding-right: 100px;
+    font-size: 30px;
+    padding-top: 80px
+    
+}
+.paragraph{
+   
+    color: #D6DEE0; 
+    font-size: 16px;
+    margin-right: 40px;
+    margin-left: 740px;
+    margin-top: -320px;
+    font-family: 'Poppins'
+    
+
+}
+
+.container
+{
+    display: flex;
+}
+.photo{
+    width: 620px;
+    height: 350px;
+   
+}
+img.photo{
+    width: 620px;
+    height: 350px;
+    margin: 60px;
+    box-shadow: 15px 15px rgb(0,0,0,0.2);
+}
+.button {
+    background-color: #FFFFFF;
+    border: none;
+    color: #1F5663;
+    font-family: 'Rosario';
+    text-shadow: 0.5px 1px #1F5600;
+    padding: 13px 30px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-left: 740px;
+    margin-bottom: 10px;
+}

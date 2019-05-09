@@ -1,0 +1,155 @@
+
+body
+{
+    margin: 0 auto;
+    width: full;
+}
+h1
+{
+    color: #309DB0;
+    font-family: 'Itim' ,sans-serif;
+    font-size: 38px
+    
+}
+h2
+{
+    color: #FFECEE
+}
+h3
+{
+    color: #309DB0
+}
+h4
+{
+    color: #FFC6BF
+}
+.paragraph
+{
+    color: #EFBCAC;
+    font-size: 12px
+}
+p
+{
+    color: #B0B9C1;
+    font-family: 'Itim';
+}
+
+.banner
+{
+    text-align: center; 
+    background-image: url(banner.jpg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+a.GETSTARTED
+{
+    text-decoration: none;
+    color: aliceblue;
+    border-width: thin;
+    margin-top: 50px;
+    background-color: #F6755F;
+    border: solid 2px #F6755F;
+    padding: 10px 30px;
+    border-radius: 4px;
+    font-family: 'Work Sans';
+   
+}
+.left
+{
+    width: 960px;
+     margin: 0 auto;
+   
+}
+.right
+{
+    width: 960px;
+    margin: 0 auto;
+    text-align: right;
+}
+.section1
+{
+    width: 960px;
+     margin: 0 auto;
+    display: flex;
+    
+}
+.circle
+{
+    background-image: url(pic01.jpg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 650px;
+    height: 250px;
+    border-radius: 50%;
+    border: 0px;
+}
+.bar
+{
+    text-align: center;
+    border: solid 2px #F6755F;
+    padding: 50px 80px;
+    background-color: #F6755F;
+}
+.section2
+{
+     width: 960px;
+     margin: 0 auto;
+    border: solid 2px white;
+    padding: 50px 80px;
+    display: flex;
+   
+}
+
+.A
+{
+    width: 250px;
+    height: 150px;
+    padding: 20px
+}
+.B
+{
+     width: 250px;
+    height: 150px;
+    padding: 20px;
+}
+.C
+{
+     width: 250px;
+    height: 150px;
+    padding: 20px
+}
+.a
+{
+    padding: 20px;
+}
+.footer
+{
+     border: 2px solid #25A1C3;
+    background-color: #25A1C3;
+    padding: 50px 80px;
+    
+}
+.GET
+{
+   
+    text-align: center;
+    padding: 10px
+}
+.FontAwesome
+{
+     width: 960px;
+     margin: 0 auto;
+     text-align: center;
+    
+}
+footer
+{
+    text-align: center;
+    color: #76DBE6
+
+}
+i
+{
+    color: #C78879
+}
